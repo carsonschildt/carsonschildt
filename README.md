@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi There 👋
 
-<!--
-**carsonschildt/carsonschildt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Carson (carsonschildt) - an indie developer who is carving my way through the amazing process of what I do. All of my projects are built from the ground up, from designing to planning out the project. While not developing you'll find me outside filming my passions of the outdoors. The process of building my projects for development is the same as my passion for content creation.
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,figma,vim,neovim,vscode,github,git,linux"> </a> </p>
+
+<br>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=carsonschildt&theme=github_dark_dimmed"/>
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carsonschildt&layout=compact&langs_count=8&card_width=320&theme=github_dark_dimmed" />
+</a>
