@@ -8,8 +8,14 @@
 
 <br>
 
+### 👨‍💻 My Current Projects:
 
-### 📊 My GitHub Stats
+  - **TetraOS**: TetraOS is a free open-source Linux distribution that @K10398-real and I started back in early 2022. Here is the organization: github.com/tetraos
+  - **Linux**: from time to time I will help contribute to the Linux Kernal
+
+<br>
+
+### 📊 My GitHub Stats:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=carsonschildt&theme=github_dark_dimmed" />
