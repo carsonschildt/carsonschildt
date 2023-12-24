@@ -22,5 +22,5 @@ I'm Carson (carsonschildt) - an indie developer who is carving my way through th
 <br>
 
 <details>
- <summary><h3>👨‍💻 Carson's Coding Journey</h3></summary>
+ <summary><h3> 👨‍💻 Carson's Coding Journey</h3></summary>
    
