@@ -8,7 +8,7 @@
 
 <br>
 
-### 👨‍💻 My Current Projects:
+### 📝✏️ My Current Projects:
 
   - **TetraOS**: TetraOS is a free open-source Linux distribution that @K10398-real and I started back in early 2022. Here is the organization: github.com/tetraos
   - **Linux**: from time to time I will help contribute to the Linux Kernal
