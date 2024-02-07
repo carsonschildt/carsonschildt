@@ -21,8 +21,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=carsonschildt&theme=github_dark_dimmed" />
 </a>
 <a href="https://github.com/anuraghazra/top-langs">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PA055
-&layout=compact&langs_count=8&card_width=320&theme=github_dark_dimmed" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PA055&layout=compact&langs_count=8&card_width=320&theme=github_dark_dimmed" />
 </a>
 
 <br>
