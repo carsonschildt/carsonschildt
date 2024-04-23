@@ -19,10 +19,10 @@
 ### 📊 My GitHub Stats:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=carsonschildt&theme=github_dark_dimmed" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cruxschildt&theme=github_dark_dimmed" />
 </a>
 <a href="https://github.com/anuraghazra/top-langs">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carsonschildt&layout=compact&langs_count=8&card_width=320&theme=github_dark_dimmed" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cruxschildt&layout=compact&langs_count=8&card_width=320&theme=github_dark_dimmed" />
 </a>
 
 <br>
