@@ -1,4 +1,4 @@
-## Hi There 👋
+<h1 align="center">Hi There 👋</h1> 
 
   I'm Carson (carsonschildt) - an indie developer who is carving my way through the amazing process of what I do. All of my projects are built from the ground up, from designing to planning out the project. While not developing you'll find me outside filming my passions of the outdoors. The process of building my projects for development is the same as my passion for content creation. I also *really* like penguins too!
 
