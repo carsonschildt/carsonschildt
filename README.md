@@ -16,18 +16,19 @@
 
 <br>
 
-### 📊 My GitHub Stats:
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=carsonschildt&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=carsonschildt&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=carsonschildt&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=carsonschildt&theme=github_dark_dimmed" />
-</a>
-<a href="https://github.com/anuraghazra/top-langs">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carsonschildt&layout=compact&langs_count=8&card_width=320&theme=github_dark_dimmed" />
-</a>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=carsonschildt&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
-<br>
-<br>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-<details>
- <summary><h3> 👨‍💻 Carson's Coding Journey</h3></summary>
-   
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=carsonschildt&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=carsonschildt&icon=0&color=12)](https://visitcount.itsvg.in)
