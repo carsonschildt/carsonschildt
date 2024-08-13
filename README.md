@@ -9,7 +9,6 @@
 
 <p align='center'><strong>I am a developer from the Netherlands. I'm a part-time Linux kernel developer and the founder of <a href='https://www.github.com/TetraOS'>The Tetra Foundation</a>. Right now, I'm working on TetraOS, a free open-source Linux distribution, and PatrolAssist, an iOS app to help ski patrollers work more effectively 🎿. When I'm not coding, I'm outdoors filming nature or on the slopes as a young adult ski patroller and <a href='https://www.telecolo.ski'>TeleColo</a> sponsored athlete. I’m passionate about telemark skiing and have a soft spot for penguins – they’re pretty awesome!</strong></p>
 
-<br>
 <div id="user-content-toc" align='center'>
   <ul align="center" style="list-style: none;">
     <summary>
@@ -17,7 +16,7 @@
     </summary>
   </ul>
 </div>
-   <br>
+
 <p align="center">
   <a href="https://github.com/thinkright20">
     <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,figma,vim,neovim,vscode,github,git,linux">
