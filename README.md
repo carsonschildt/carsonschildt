@@ -1,7 +1,7 @@
 
 
 
-<p align='center'><strong>Howdy! 👋 I'm Carson, a developer from the Netherlands. I'm a part-time Linux kernel developer and the founder of <a href='www.github.com/TetraOS'>The Tetra Foundation</a>. Right now, I'm working on TetraOS, a free open-source Linux distribution, and PatrolAssist, an iOS app to help ski patrollers work more effectively 🎿. When I'm not coding, I'm outdoors filming nature or on the slopes as a young adult ski patroller and <a href='www.telecolo.ski'>TeleColo</a> sponsored athlete. I’m passionate about telemark skiing and have a soft spot for penguins – they’re pretty awesome!</strong></p>
+<p align='center'><strong>Howdy! 👋 I'm Carson, a developer from the Netherlands. I'm a part-time Linux kernel developer and the founder of <a href='https://www.github.com/TetraOS'>The Tetra Foundation</a>. Right now, I'm working on TetraOS, a free open-source Linux distribution, and PatrolAssist, an iOS app to help ski patrollers work more effectively 🎿. When I'm not coding, I'm outdoors filming nature or on the slopes as a young adult ski patroller and <a href='https://www.telecolo.ski'>TeleColo</a> sponsored athlete. I’m passionate about telemark skiing and have a soft spot for penguins – they’re pretty awesome!</strong></p>
 
 <br>
 
