@@ -1,10 +1,15 @@
-<h1 align="center">Hi There 👋</h1> 
 
-  I'm [Carson](carsonschildt.github.io) - an indie developer who is carving my way through the amazing process of what I do. All of my projects are built from the ground up, from designing to planning out the project. While not developing you'll find me outside filming my passions of the outdoors. The process of building my projects for development is the same as my passion for content creation. I also *really* like penguins too!
+
+
+****Howdy 👋**! I'm Carson, a developer from the Netherlands. I'm a part-time Linux kernel developer and the founder of [The Tetra Foundation](www.github.com/TetraOS). Right now, I'm working on TetraOS, a free open-source Linux distribution, and PatrolAssist, an iOS app to help ski patrollers work more effectively 🎿. When I'm not coding, I'm outdoors filming nature or on the slopes as a young adult ski patroller and [TeleColo](www.telecolo.ski) sponsored athlete. I’m passionate about telemark skiing and have a soft spot for penguins – they’re pretty awesome!**
 
 <br>
 
-<p align="center"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,figma,vim,neovim,vscode,github,git,linux"> </a> </p>
+<p align="center">
+  <a href="https://github.com/thinkright20">
+    <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,figma,vim,neovim,vscode,github,git,linux">
+  </a>
+</p>
 
 <br>
 
