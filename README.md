@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://github.com/thinkright20">
-    <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,figma,vim,neovim,vscode,github,git,linux">
+    <img src="https://skillicons.dev/icons?i=cpp,c,html,css,js,figma,vim,neovim,vscode,github,git,linux">
   </a>
 </p>
 
