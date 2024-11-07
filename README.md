@@ -7,7 +7,7 @@
   </ul>
 </div>
 
-<p align='center'>I am a developer from the US/Netherlands. I'm a part-time Linux kernel developer and the leader of <a href='https://www.github.com/TetraOS'>The Tetra Foundation</a>. Right now, I'm working on TetraOS, a free open-source Linux distribution, and PatrolAssist, an iOS app to help ski patrollers work more effectively 🎿. I’m passionate about telemark skiing and have a soft spot for penguins – they’re pretty awesome! Cheers! ✌🏻</p>
+<p align='center'>I am a developer from the US/Netherlands. I'm a part-time Linux kernel developer and the leader of <a href='https://www.github.com/TetraOS'>The Tetra Foundation</a>. Right now, I'm working on TetraOS, a free open-source Linux distribution, and PatrolAssist, an iOS app to help ski patrollers work more effectively 🎿. I’m passionate about telemark skiing and ski patroller. Cheers! ✌🏻</p>
 
 <div id="user-content-toc" align='center'>
   <ul align="center" style="list-style: none;">
